@@ -1,12 +1,12 @@
 # Portfolio
 **1. 사망원인통계 기반 자살 예방 맞춤형 금융 교육 정책 제언 | 2024.09 ~ 2024.12**
-
-[MORE INFO](https://github.com/mathsjm32/Resume/tree/main/Portfolio/자살예방정책제언)
+- 5개년 사망원인통계 및 변사자통계 데이터를 바탕으로 자살의 경제적·정신적 요인 간 인과관계를 SPSS 교차 분석으로 규명하고, 이를 해결하기 위한 연령대별 맞춤형 금융 교육 커리큘럼을 설계하여 교내 성과평가회 우수상을 수상했습니다.
+- [MORE INFO](https://github.com/mathsjm32/Resume/tree/main/Portfolio/자살예방정책제언)
 
 **2. 설문 데이터 기반 기숙사 운영 문제 개선 | 2025.09 ~ 2025.12**
-
-[MORE INFO](https://github.com/mathsjm32/Resume/tree/main/Portfolio/기숙사문제개선)
+- 2,700명 규모 기숙사 자치회장으로서 파편화된 불만을 해결하기 위해 정밀 설문을 설계했으며, SPSS 신뢰도 분석과 Python 텍스트 마이닝을 통해 객관적인 최우선 개선 과제를 도출하고 이를 2026년도 기숙사 운영 계획에 공식 반영시키는 성과를 거두었습니다.
+- [MORE INFO](https://github.com/mathsjm32/Resume/tree/main/Portfolio/기숙사문제개선)
 
 **3. 가계동향조사 기반 소득분위 계층별 소비구조 추세 분석 | 2025.06 ~ ing**
-
-[MORE INFO](https://github.com/mathsjm32/Resume/tree/main/Portfolio/소득분위별소비분석)
+- 단일 평균 통계의 한계를 극복하고자 17개 분기 동안의 MDIS 가계동향조사 및 소비자물가지수 데이터를 활용하여, 경기 충격이 소득 5분위 계층별 소비구조의 변화와 지출 격차에 미친 실질적인 영향을 추세 분석하고 있습니다.
+- [MORE INFO](https://github.com/mathsjm32/Resume/tree/main/Portfolio/소득분위별소비분석)
